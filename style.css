@@ -1,0 +1,50 @@
+body{
+	color:#666;
+	background-color: rgba(#ffffff, 0);
+    font-family: 'Roboto Condensed', sans-serif;
+}
+#encabezado{
+	width: 800px;
+	min-height: 60px;
+	margin: auto;
+	padding: 20px;
+	background-color: #fff;
+	border: solid 1px #ccc;
+  background-color:white;
+  text-align: center;
+}
+#metro{
+  width: 25%;
+  padding: 80px, 90px, 10px;
+}
+
+#contenido{
+  width: 500px;
+  min-height: 100px;
+  margin-left: 200px;
+	padding: 20px;
+	background-color: #fff;
+	border: solid 1px #ccc;
+  background-color:white;
+  text-align: center;
+}
+
+#div_nombre{
+  	padding: 20px;
+}
+#div_apellidos{
+  	padding: 20px;
+}
+#div_correo{
+  	padding: 20px;
+}
+#div_ListaSexo{
+  	padding: 20px;
+}
+#div_ocupacion{
+  	padding: 20px;
+}
+
+#mensajeConfirmacion{
+  	padding: 20px;
+}
