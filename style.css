@@ -6,7 +6,7 @@ body{
 #encabezado{
 	width: 800px;
 	min-height: 60px;
-	margin: auto;
+	margin-left: 200px;
 	padding: 20px;
 	background-color: #fff;
 	border: solid 1px #ccc;
@@ -21,16 +21,19 @@ body{
 #contenido{
   width: 500px;
   min-height: 100px;
-  margin-left: 200px;
+  margin-left: 350px;
 	padding: 20px;
 	background-color: #fff;
 	border: solid 1px #ccc;
   background-color:white;
   text-align: center;
+  font-family: fantasy;
+  background-color: rgb(242, 217, 92);
 }
 
 #div_nombre{
   	padding: 20px;
+    font color: rgb(10, 26, 246);
 }
 #div_apellidos{
   	padding: 20px;
